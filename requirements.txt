@@ -1,0 +1,8 @@
+spotipy
+openai
+gptrim
+
+scikit-image
+numpy
+scipy
+matplotlib
